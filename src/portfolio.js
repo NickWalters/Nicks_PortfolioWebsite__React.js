@@ -74,6 +74,18 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
+        {
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "php",
+      fontAwesomeClassname: "fab fa-php"
+    },
+    {
+      skillName: "flask",
+      fontAwesomeClassname: "fas fa-pepper-hot"
+    },
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
