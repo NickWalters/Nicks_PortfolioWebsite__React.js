@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Nicks_PortfolioWebsite__React.js/static/css/main.3586f058.chunk.css",
-    "main.js": "/Nicks_PortfolioWebsite__React.js/static/js/main.605c88cb.chunk.js",
-    "main.js.map": "/Nicks_PortfolioWebsite__React.js/static/js/main.605c88cb.chunk.js.map",
-    "runtime-main.js": "/Nicks_PortfolioWebsite__React.js/static/js/runtime-main.13c5a742.js",
-    "runtime-main.js.map": "/Nicks_PortfolioWebsite__React.js/static/js/runtime-main.13c5a742.js.map",
-    "static/js/2.4ae2f8a9.chunk.js": "/Nicks_PortfolioWebsite__React.js/static/js/2.4ae2f8a9.chunk.js",
-    "static/js/2.4ae2f8a9.chunk.js.map": "/Nicks_PortfolioWebsite__React.js/static/js/2.4ae2f8a9.chunk.js.map",
+    "main.css": "/Nicks_PortfolioWebsite__React.js/static/css/main.db437dde.chunk.css",
+    "main.js": "/Nicks_PortfolioWebsite__React.js/static/js/main.497172cc.chunk.js",
+    "main.js.map": "/Nicks_PortfolioWebsite__React.js/static/js/main.497172cc.chunk.js.map",
+    "runtime-main.js": "/Nicks_PortfolioWebsite__React.js/static/js/runtime-main.1c8fdba6.js",
+    "runtime-main.js.map": "/Nicks_PortfolioWebsite__React.js/static/js/runtime-main.1c8fdba6.js.map",
+    "static/js/2.d2879622.chunk.js": "/Nicks_PortfolioWebsite__React.js/static/js/2.d2879622.chunk.js",
+    "static/js/2.d2879622.chunk.js.map": "/Nicks_PortfolioWebsite__React.js/static/js/2.d2879622.chunk.js.map",
     "index.html": "/Nicks_PortfolioWebsite__React.js/index.html",
-    "precache-manifest.ce65fc1396127bdcabd00167fe129cd9.js": "/Nicks_PortfolioWebsite__React.js/precache-manifest.ce65fc1396127bdcabd00167fe129cd9.js",
+    "precache-manifest.4219438ed0d1f10fee6367729ff111fc.js": "/Nicks_PortfolioWebsite__React.js/precache-manifest.4219438ed0d1f10fee6367729ff111fc.js",
     "service-worker.js": "/Nicks_PortfolioWebsite__React.js/service-worker.js",
-    "static/css/main.3586f058.chunk.css.map": "/Nicks_PortfolioWebsite__React.js/static/css/main.3586f058.chunk.css.map",
+    "static/css/main.db437dde.chunk.css.map": "/Nicks_PortfolioWebsite__React.js/static/css/main.db437dde.chunk.css.map",
+    "static/js/2.d2879622.chunk.js.LICENSE.txt": "/Nicks_PortfolioWebsite__React.js/static/js/2.d2879622.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Nicks_PortfolioWebsite__React.js/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/circle-cropped.png": "/Nicks_PortfolioWebsite__React.js/static/media/circle-cropped.e0ba9c78.png",
     "static/media/contactMail.png": "/Nicks_PortfolioWebsite__React.js/static/media/contactMail.d6d4086f.png",
@@ -20,9 +21,9 @@
     "static/media/uwa.jpg": "/Nicks_PortfolioWebsite__React.js/static/media/uwa.a8125658.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.13c5a742.js",
-    "static/js/2.4ae2f8a9.chunk.js",
-    "static/css/main.3586f058.chunk.css",
-    "static/js/main.605c88cb.chunk.js"
+    "static/js/runtime-main.1c8fdba6.js",
+    "static/js/2.d2879622.chunk.js",
+    "static/css/main.db437dde.chunk.css",
+    "static/js/main.497172cc.chunk.js"
   ]
 }
