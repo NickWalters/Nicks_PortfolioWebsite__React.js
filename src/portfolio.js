@@ -182,9 +182,7 @@ const achievementSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Do you Want to discuss something with me?",
-  number: "+61 0481181151",
-  email_address: "nicho.walters@gmail.com"
+  subtitle: "(+61) 0481181151  (linkedIn, facebook & email buttons below)"
 };
 
 export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, achievementSection, contactInfo};
